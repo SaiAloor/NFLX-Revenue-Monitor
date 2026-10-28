@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-28 17:56 UTC",
+  "latest_quarter": "Q3'26",
+  "latest_total_musd": 12874,
+  "yoy_growth_pct": 11.9,
+  "forecast_quarter": "Q4'26",
+  "forecast_total_musd": 13570,
+  "guidance_musd": 13442,
+  "model_vs_guidance_pct": 1.0,
+  "backtest_mape_pct": 2.04,
+  "backtest_quarters": 7,
+  "quarters_reconciled": 13,
+  "quarters_total": 13,
+  "quarters_explained": 1,
+  "new_filings": [],
+  "issues": []
+}

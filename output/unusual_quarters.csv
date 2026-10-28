@@ -1,7 +1,7 @@
-quarter,region,z_score,qoq_growth_pct
-Q1'26,UCAN,-2.02,-1.8
-Q4'24,LATAM,-1.85,-0.9
-Q2'26,EMEA,-1.76,0.9
-Q1'24,EMEA,1.74,6.2
-Q2'26,APAC,-1.74,0.1
-Q1'24,UCAN,1.51,7.5
+quarter,region,qoq_growth_pct,z_score
+Q1'26,UCAN,-1.8,-2.02
+Q4'24,LATAM,-0.9,-1.85
+Q2'26,EMEA,0.9,-1.76
+Q1'24,EMEA,6.2,1.74
+Q2'26,APAC,0.1,-1.74
+Q1'24,UCAN,7.5,1.51
